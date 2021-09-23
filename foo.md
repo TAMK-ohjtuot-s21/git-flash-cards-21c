@@ -1,0 +1,3 @@
+# Git amend - komento
+
+
