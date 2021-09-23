@@ -14,6 +14,6 @@ Käytetään etunimeä. Esim:
 HUOM: merkitse sulkujen sisään nimesi, kun alat tehdä jotain lappua
 
 * perus.md - git perustoiminnot   ()
-* log.md - git log komento   ()
+* log.md - git log komento   (Petteri)
 * amend.md - git amend komento   ()
 
